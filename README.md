@@ -12,3 +12,13 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/omkarhacker/QuizPortal.git
+
+1. **Install dependencies:**:
+   ```bash
+   npm install
+
+
+1. **Run the app:**:
+   ```bash
+   npm start
+
