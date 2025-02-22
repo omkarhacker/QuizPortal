@@ -13,12 +13,15 @@
    ```bash
    git clone https://github.com/omkarhacker/QuizPortal.git
 
-1. **Install dependencies:**:
+2. **Install dependencies:**:
    ```bash
    npm install
 
 
-1. **Run the app:**:
+3. **Run the app:**:
    ```bash
    npm start
 
+## Instructions to Run the App Locally
+```bash
+   git clone https://github.com/omkarhacker/QuizPortal.git
