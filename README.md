@@ -22,6 +22,6 @@
    ```bash
    npm start
 
-## Instructions to Run the App Locally
+## A link to the deployed app
 ```bash
-   git clone https://github.com/omkarhacker/QuizPortal.git
+   https://quickquizzer-tan.vercel.app/
